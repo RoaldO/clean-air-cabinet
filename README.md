@@ -37,6 +37,6 @@ deferred — solvent vapour and paint aerosol degrade the candidate sensors.
 
 ```bash
 cd firmware
-just secrets                 # sops -d secrets.enc.yaml > secrets.yaml
-esphome run cleanaircabinet.yaml   # first flash over USB, then OTA
+make secrets                 # sops -d secrets.enc.yaml > secrets.yaml
+make run                     # esphome run: first flash over USB, then OTA
 ```
