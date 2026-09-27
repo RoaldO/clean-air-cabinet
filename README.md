@@ -22,6 +22,17 @@ Printed and assembled onto a repurposed storage bin; fan runs quietly at ~30–3
 Firmware MVP works (on/off + speed from HA, RPM readback). Environmental sensors
 deferred — solvent vapour and paint aerosol degrade the candidate sensors.
 
+## Photos
+
+| | |
+|---|---|
+| ![Assembled duct and filter on the bin lid](docs/images/assembled-duct-and-filter.jpg) | ![Printed duct parts: grill, dust cover, flanges](docs/images/printed-duct-parts.jpg) |
+| Fan duct and filter enclosure mounted on the bin lid | Duct with finger-guard grill, dust cover and flange gaskets |
+| ![Filter enclosure with heat-set inserts](docs/images/filter-enclosure-heat-set-inserts.jpg) | ![Exploded CAD view of the duct](docs/images/cad-duct-exploded.png) |
+| Filter enclosure with brass heat-set inserts | Exploded build123d view: dust cover, grill, duct, flange |
+| ![PCB front copper](docs/images/pcb-front-copper.png) | ![PCB back copper](docs/images/pcb-back-copper.png) |
+| Carrier PCB, front copper | Carrier PCB, back copper |
+
 ## Firmware setup
 
 ```bash
