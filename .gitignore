@@ -4,6 +4,7 @@ __pycache__/
 *.stl
 *.3mf
 /cad/*.step
+/cad/renders/
 
 # Firmware (ESPHome, firmware/)
 .esphome/
